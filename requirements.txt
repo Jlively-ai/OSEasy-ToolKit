@@ -1,0 +1,7 @@
+# OsEasy-ToolKit - 零外部依赖
+# 全部使用 Python 标准库开发（Tkinter GUI、threading、subprocess 等）
+# 直接运行 python main.py 即可，无需安装任何第三方包
+
+# 如需打包为单文件 exe，可安装 PyInstaller：
+# pip install pyinstaller
+# pyinstaller --onefile --noconsole main.py
